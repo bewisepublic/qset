@@ -6,3 +6,6 @@ This is a simple question set that reflects the minimum requirements for what we
 * Write a simple JSON responding *controller* in the component **"wiseapi"** (the controller is called **"events"**) with CORS header that will allow only a site *'http://www.b-yy.com"* to access the api. 
 * Write a *jQuery plugin* called **"jquery.wise.js"** to receive some data from the **"wiseapi"** component and set it to a variable *"wisedata"*. Log the variable *"wisedata"* to a console. Use *defer* and *promise* where possible.
 * Write a *directive* in angular called **"wisebar"**, that has an input box that will accept a *name*. Display this input data in parent container (not in directive but the container that is calling the directive). This directive can be used multiple times in the parent container, each bound with different variables. **(isolated scopes)**
+
+##Submission
+Please submit your answers/solutions with a pull request to this repo
